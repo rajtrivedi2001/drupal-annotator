@@ -1,0 +1,128 @@
+# 
+# Translators:
+# Ricardo Souza (RCDMK) <srrcdmk@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Annotator\n"
+"POT-Creation-Date: 2015-04-26 07:42:+0000\n"
+"PO-Revision-Date: 2015-04-26 19:56+0000\n"
+"Last-Translator: nickstenning <nick@whiteink.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/okfn/annotator/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/ext/unsupported.js:24
+msgid "W3C Range API not found"
+msgstr ""
+
+#: src/ext/unsupported.js:31
+msgid "JSON parse/stringify API not found"
+msgstr ""
+
+#: src/ext/unsupported.js:61
+msgid "Sorry, Annotator does not support your browser!"
+msgstr ""
+
+#: src/ext/unsupported.js:62
+msgid "Errors"
+msgstr ""
+
+#: src/storage.js:388
+msgid "The annotation store did not understand the request! (Error 400)"
+msgstr ""
+
+#: src/storage.js:391
+msgid "You must be logged in to perform this operation! (Error 401)"
+msgstr ""
+
+#: src/storage.js:394
+msgid "You don't have permission to perform this operation! (Error 403)"
+msgstr ""
+
+#: src/storage.js:397
+msgid "Could not connect to the annotation store! (Error 404)"
+msgstr ""
+
+#: src/storage.js:400
+msgid "Internal error in annotation store! (Error 500)"
+msgstr ""
+
+#: src/storage.js:403
+msgid "Unknown error while speaking to annotation store!"
+msgstr ""
+
+#: src/ui/adder.js:146
+msgid "Annotate"
+msgstr "Anotar"
+
+#: src/ui/editor.js:235
+msgid "Comments"
+msgstr "Comentários"
+
+#: src/ui/editor.js:573
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/ui/editor.js:575
+msgid "Save"
+msgstr "Salvar"
+
+#: src/ui/filter.js:57
+msgid "Annotation"
+msgstr "Anotação"
+
+#: src/ui/filter.js:128 src/ui/filter.js:389
+msgid "Filter by"
+msgstr ""
+
+#: src/ui/filter.js:380
+msgid "Navigate"
+msgstr ""
+
+#: src/ui/filter.js:384
+msgid "Previous"
+msgstr "Anterior"
+
+#: src/ui/filter.js:387
+msgid "Next"
+msgstr "Próximo"
+
+#: src/ui/filter.js:398
+msgid "Clear"
+msgstr "Limpar"
+
+#: src/ui/main.js:164
+msgid "Allow anyone to <strong>view</strong> this annotation"
+msgstr "Permitir que qualquer um <strong>visualize</strong> esta anotação"
+
+#: src/ui/main.js:171
+msgid "Allow anyone to <strong>edit</strong> this annotation"
+msgstr "Permitir que qualquer um <strong>altere</strong> esta anotação"
+
+#: src/ui/markdown.js:29 src/ui/viewer.js:88
+msgid "No comment"
+msgstr ""
+
+#: src/ui/markdown.js:52
+msgid ""
+"To use the Markdown plugin, you must include Showdown into the page first."
+msgstr "Para usar o plugin Markdown você precisa incluir Showdown na página primeiro."
+
+#: src/ui/tags.js:97
+msgid "Add some tags here"
+msgstr "Adicionar algumas tags aqui"
+
+#: src/ui/viewer.js:452 src/ui/viewer.js:453
+msgid "View as webpage"
+msgstr ""
+
+#: src/ui/viewer.js:455 src/ui/viewer.js:456
+msgid "Edit"
+msgstr ""
+
+#: src/ui/viewer.js:458 src/ui/viewer.js:459
+msgid "Delete"
+msgstr ""

@@ -1,0 +1,84 @@
+annotator:
+  version: 1.2.10
+  js:
+    /libraries/annotator/annotator-full.min.js: {}
+  css:
+    base:
+      /libraries/annotator/annotator.min.css: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - core/jquery.once
+    - core/drupalSettings
+
+annotator-field:
+  js:
+    js/annotator-field.js: {}
+  dependencies:
+    - annotator/annotator
+
+annotator-block:
+  js:
+    js/annotator-block.js: {}
+  dependencies:
+    - annotator/annotator
+
+annotator-auth:
+  version: 1.2.10
+  js:
+    js/annotator-plugin-auth.js: {}
+  dependencies:
+    - annotator/annotator
+
+annotator-filter:
+  version: 1.2.10
+  js:
+    js/annotator-plugin-filter.js: {}
+  dependencies:
+    - annotator/annotator
+
+annotator-markdown:
+  version: 1.2.10
+  js:
+    js/annotator-plugin-markdown.js: {}
+  dependencies:
+    - annotator/annotator
+    - annotator/showdown
+
+annotator-permissions:
+  version: 1.2.10
+  js:
+    js/annotator-plugin-permissions.js: {}
+  dependencies:
+    - annotator/annotator
+
+annotator-store:
+  version: 1.2.10
+  js:
+    js/annotator-plugin-store.js: {}
+  dependencies:
+    - annotator/annotator
+
+annotator-tags:
+  version: 1.2.10
+  js:
+    js/annotator-plugin-tags.js: {}
+  dependencies:
+    - annotator/annotator
+
+annotator-unsupported:
+  version: 1.2.10
+  js:
+    js/annotator-plugin-unsupported.js: {}
+  dependencies:
+    - annotator/annotator
+
+showdown:
+  version: 1.4.2
+  js:
+    /libraries/showdown/dist/showdown.min.js: {}
+
+gettext:
+  version: 0.0.8
+  js:
+    /libraries/gettext/lib/Gettext.js: {}

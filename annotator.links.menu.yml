@@ -1,0 +1,6 @@
+annotator.annotator_admin_form:
+  title: 'Annotator settings'
+  route_name: annotator.annotator_settings_form
+  description: 'Configure annotator and plugin settings.'
+  parent: system.admin_config_content
+  weight: 0

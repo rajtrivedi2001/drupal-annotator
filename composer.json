@@ -1,0 +1,13 @@
+{
+  "name": "drupal/annotator",
+  "type": "drupal-module",
+  "description": "Annotation tool for the web",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/annotator",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/annotator",
+    "source": "http://cgit.drupalcode.org/annotator"
+  },
+  "require": { }
+}

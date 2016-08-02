@@ -1,0 +1,5 @@
+name: Annotator
+type: module
+description: Annotation tool for the web
+core: 8.x
+package: Annotator

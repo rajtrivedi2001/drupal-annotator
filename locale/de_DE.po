@@ -1,0 +1,129 @@
+# 
+# Translators:
+# Stefan Auditor <stefan.auditor@erdfisch.de>, 2015
+# Steini <inactive+Steini@transifex.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: Annotator\n"
+"POT-Creation-Date: 2015-04-26 07:42:+0000\n"
+"PO-Revision-Date: 2015-08-12 13:42+0000\n"
+"Last-Translator: Stefan Auditor <stefan.auditor@erdfisch.de>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/okfn/annotator/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/ext/unsupported.js:24
+msgid "W3C Range API not found"
+msgstr "W3C Range API nicht gefunden"
+
+#: src/ext/unsupported.js:31
+msgid "JSON parse/stringify API not found"
+msgstr "JSON parse/stringify API nicht gefunden"
+
+#: src/ext/unsupported.js:61
+msgid "Sorry, Annotator does not support your browser!"
+msgstr "Leider unterstützt Annotator diesen Browser nicht!"
+
+#: src/ext/unsupported.js:62
+msgid "Errors"
+msgstr "Fehler"
+
+#: src/storage.js:388
+msgid "The annotation store did not understand the request! (Error 400)"
+msgstr "Der Annotation-Store hat die Anfrage nicht verstanden! (Error 400)"
+
+#: src/storage.js:391
+msgid "You must be logged in to perform this operation! (Error 401)"
+msgstr "Um diese Operation auszuführen muss man angemeldet sein! (Error 401)"
+
+#: src/storage.js:394
+msgid "You don't have permission to perform this operation! (Error 403)"
+msgstr "Unzureichende Zugriffsberechtigung für diese Operation! (Error 403)"
+
+#: src/storage.js:397
+msgid "Could not connect to the annotation store! (Error 404)"
+msgstr "Verbindung zum Annotation-Store fehlgeschlagen! (Error 404)"
+
+#: src/storage.js:400
+msgid "Internal error in annotation store! (Error 500)"
+msgstr "Interner Fehler im Annotation-Store! (Error 500)"
+
+#: src/storage.js:403
+msgid "Unknown error while speaking to annotation store!"
+msgstr "Unbekannter Fehler während der Kommunikation mit dem Annotation-Store!"
+
+#: src/ui/adder.js:146
+msgid "Annotate"
+msgstr "Kommentieren"
+
+#: src/ui/editor.js:235
+msgid "Comments"
+msgstr "Kommentare"
+
+#: src/ui/editor.js:573
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: src/ui/editor.js:575
+msgid "Save"
+msgstr "Speichern"
+
+#: src/ui/filter.js:57
+msgid "Annotation"
+msgstr "Kommentieren"
+
+#: src/ui/filter.js:128 src/ui/filter.js:389
+msgid "Filter by"
+msgstr "Filtern nach "
+
+#: src/ui/filter.js:380
+msgid "Navigate"
+msgstr "Navigieren"
+
+#: src/ui/filter.js:384
+msgid "Previous"
+msgstr "Zurück"
+
+#: src/ui/filter.js:387
+msgid "Next"
+msgstr "Vor"
+
+#: src/ui/filter.js:398
+msgid "Clear"
+msgstr "Löschen"
+
+#: src/ui/main.js:164
+msgid "Allow anyone to <strong>view</strong> this annotation"
+msgstr "Jedem erlauben diese Kommentierung zu <strong>verwenden</strong>"
+
+#: src/ui/main.js:171
+msgid "Allow anyone to <strong>edit</strong> this annotation"
+msgstr "Jedem erlauben diese Kommentierung zu <strong>bearbeiten</strong>"
+
+#: src/ui/markdown.js:29 src/ui/viewer.js:88
+msgid "No comment"
+msgstr "Kein Kommentar"
+
+#: src/ui/markdown.js:52
+msgid ""
+"To use the Markdown plugin, you must include Showdown into the page first."
+msgstr "Um das Markdown-Plugin nutzen zu können, muss Showdown in die erste Seite inkludiert werden."
+
+#: src/ui/tags.js:97
+msgid "Add some tags here"
+msgstr "Schlagwörter hinzufügen"
+
+#: src/ui/viewer.js:452 src/ui/viewer.js:453
+msgid "View as webpage"
+msgstr "Als Webseite anzeigen"
+
+#: src/ui/viewer.js:455 src/ui/viewer.js:456
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: src/ui/viewer.js:458 src/ui/viewer.js:459
+msgid "Delete"
+msgstr "Löschen"

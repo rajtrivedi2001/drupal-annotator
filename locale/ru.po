@@ -1,0 +1,129 @@
+# 
+# Translators:
+# nickstenning <nick@whiteink.com>, 2015
+# Stan <zerrostas@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: Annotator\n"
+"POT-Creation-Date: 2015-04-26 07:42:+0000\n"
+"PO-Revision-Date: 2015-04-26 22:02+0000\n"
+"Last-Translator: nickstenning <nick@whiteink.com>\n"
+"Language-Team: Russian (http://www.transifex.com/okfn/annotator/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: src/ext/unsupported.js:24
+msgid "W3C Range API not found"
+msgstr "W3C Range API не найдено"
+
+#: src/ext/unsupported.js:31
+msgid "JSON parse/stringify API not found"
+msgstr " JSON parse/stringify API не найдено"
+
+#: src/ext/unsupported.js:61
+msgid "Sorry, Annotator does not support your browser!"
+msgstr "Annotator не работает в этом браузере!"
+
+#: src/ext/unsupported.js:62
+msgid "Errors"
+msgstr "Ошибка"
+
+#: src/storage.js:388
+msgid "The annotation store did not understand the request! (Error 400)"
+msgstr "Не верное обращение к хранилищу! (Ошибка 400)"
+
+#: src/storage.js:391
+msgid "You must be logged in to perform this operation! (Error 401)"
+msgstr "Вам необходимо авторизоваться для выполнения этой операции! (Ошибка 401)"
+
+#: src/storage.js:394
+msgid "You don't have permission to perform this operation! (Error 403)"
+msgstr "У вас нет прав выполнить эту операцию! (Ошибка 403)"
+
+#: src/storage.js:397
+msgid "Could not connect to the annotation store! (Error 404)"
+msgstr "Нет связи с хранилищем! (Ошибка 404)"
+
+#: src/storage.js:400
+msgid "Internal error in annotation store! (Error 500)"
+msgstr "Внутренняя ошибка в хранилище! (Ошибка 500)"
+
+#: src/storage.js:403
+msgid "Unknown error while speaking to annotation store!"
+msgstr "Неизвестная ошибка при обращении к хранилищу!"
+
+#: src/ui/adder.js:146
+msgid "Annotate"
+msgstr "Создать аннотацию"
+
+#: src/ui/editor.js:235
+msgid "Comments"
+msgstr "Комментарии"
+
+#: src/ui/editor.js:573
+msgid "Cancel"
+msgstr "Отменить"
+
+#: src/ui/editor.js:575
+msgid "Save"
+msgstr "Сохранить"
+
+#: src/ui/filter.js:57
+msgid "Annotation"
+msgstr "Аннотация"
+
+#: src/ui/filter.js:128 src/ui/filter.js:389
+msgid "Filter by"
+msgstr "Фильтроватъ"
+
+#: src/ui/filter.js:380
+msgid "Navigate"
+msgstr "Перейти"
+
+#: src/ui/filter.js:384
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: src/ui/filter.js:387
+msgid "Next"
+msgstr "Следующий"
+
+#: src/ui/filter.js:398
+msgid "Clear"
+msgstr "Удалить"
+
+#: src/ui/main.js:164
+msgid "Allow anyone to <strong>view</strong> this annotation"
+msgstr "Эта аннотация <strong>видна</strong> всем"
+
+#: src/ui/main.js:171
+msgid "Allow anyone to <strong>edit</strong> this annotation"
+msgstr "Эта аннотация может быть <strong>отредактирована</strong> всеми"
+
+#: src/ui/markdown.js:29 src/ui/viewer.js:88
+msgid "No comment"
+msgstr "Без комментария"
+
+#: src/ui/markdown.js:52
+msgid ""
+"To use the Markdown plugin, you must include Showdown into the page first."
+msgstr "Чтобы использовать плагин Markdown, вы должны включить Showdown."
+
+#: src/ui/tags.js:97
+msgid "Add some tags here"
+msgstr "Добавьте теги здесь"
+
+#: src/ui/viewer.js:452 src/ui/viewer.js:453
+msgid "View as webpage"
+msgstr "Открыть как веб страницу"
+
+#: src/ui/viewer.js:455 src/ui/viewer.js:456
+msgid "Edit"
+msgstr "Редактировать"
+
+#: src/ui/viewer.js:458 src/ui/viewer.js:459
+msgid "Delete"
+msgstr "Удалить"

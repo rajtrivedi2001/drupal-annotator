@@ -1,0 +1,4 @@
+services:
+  plugin.manager.annotator_plugin.processor:
+    class: Drupal\annotator\Plugin\AnnotatorPluginManager
+    parent: default_plugin_manager
