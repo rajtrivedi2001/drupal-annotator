@@ -23,7 +23,7 @@ class AnnotationAPIController extends EntityAPIController {
   public function load($ids = array(), $conditions = array()) {
     $entities = parent::load($ids, $conditions);
     foreach ($entities as $id => $entity) {
-      $entity->annotator_schema_version = ANNOTATOR_SCHEMA_VERSION;
+      $entity->annotator_schema_version = ANNOTATION_ANNOTATOR_SCHEMA_VERSION;
       $op = 'load';
       drupal_alter('annotation', $entity, $op);
       $entities[$id] = $entity;

@@ -1,6 +1,11 @@
 <?php
 
 /**
+ * @file
+ * Annotator offline module.
+ */
+
+/**
  * Implements hook_library().
  */
 function annotator_offline_library() {

@@ -1,6 +1,11 @@
 <?php
 
 /**
+ * @file
+ * Annotator touch module.
+ */
+
+/**
  * Implements hook_library().
  */
 function annotator_touch_library() {

@@ -44,7 +44,7 @@ function annotation_api() {
   drupal_json_output(
     array(
       'name' => 'Annotator Store API',
-      'version' => ANNOTATOR_VERSION,
+      'version' => ANNOTATION_ANNOTATOR_VERSION,
     )
   );
 }

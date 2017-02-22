@@ -1,6 +1,11 @@
 <?php
 
 /**
+ * @file
+ * Annotator helloworld module.
+ */
+
+/**
  * Implements hook_library().
  */
 function annotator_helloworld_library() {

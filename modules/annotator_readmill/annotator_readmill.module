@@ -1,6 +1,11 @@
 <?php
 
 /**
+ * @file
+ * Annotator readmill module.
+ */
+
+/**
  * Implements hook_library().
  */
 function annotator_readmill_library() {
