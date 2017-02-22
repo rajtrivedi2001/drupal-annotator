@@ -14,7 +14,7 @@ libraries[jsgettext][directory_name] = "jsgettext"
 libraries[jsgettext][destination] = "libraries"
 
 libraries[showdown][download][type] = "get"
-libraries[showdown][download][url] = "https://raw.github.com/coreyti/showdown/master/compressed/showdown.js"
+libraries[showdown][download][url] = "https://raw.githubusercontent.com/showdownjs/showdown/master/dist/showdown.js"
 libraries[showdown][directory_name] = "showdown"
 libraries[showdown][destination] = "libraries"
 
