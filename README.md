@@ -1,7 +1,7 @@
 # README
 
 Annotator is a [Drupal](http://drupal.org/ "Drupal.org") module to integrate
-[Open Knowledge Foundation's Annotator](http://okfnlabs.org/annotator/ "Annotator")
+[Open Knowledge Foundation's Annotator](http://annotatorjs.org/ "Annotator")
 project.
 
 ## Features
